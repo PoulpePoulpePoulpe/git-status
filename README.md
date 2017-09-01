@@ -10,3 +10,6 @@ Once installed, you can go to the main directory (not a git one) then type `git-
 * Create the file on the directory of your choice
 * Type (on a terminal): `$ chmod +x git-status`
 * Then type: `$ mv git-status /usr/local/bin/git-status` to have it available
+
+# Source
+This was forked from: https://github.com/guxtavo/wiki/blob/243f46ac0de805a6908c49e5e7831a366d608cf9/profile/git-status.sh in https://github.com/guxtavo/wiki.
