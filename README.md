@@ -9,4 +9,4 @@ Once installed, you can go to the main directory (not a git one) then type `git-
 
 * Create the file on the directory of your choice
 * Type (on a terminal): `$ chmod +x git-status`
-* Then type: ``$ mv git-status /usr/local/bin/git-status` to have it available
+* Then type: `$ mv git-status /usr/local/bin/git-status` to have it available
